@@ -2,11 +2,7 @@ package modelo;
 
 import java.util.Objects;
 
-/**
- * Clase que representa un pedido de Delivery Express.
- * Implementa buenas prácticas de POO: encapsulamiento, constructores,
- * getters/setters, toString, equals y hashCode.
- */
+
 public class Pedido {
 
     // Atributos privados (encapsulamiento)
