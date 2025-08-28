@@ -45,3 +45,6 @@
 ## Evidencia de ejecución
 
 La evidencia de la ejecución del programa esta en `docs/Evidencia_consola.txt`. 
+|imagen|
+<img width="1422" height="446" alt="image" src="https://github.com/user-attachments/assets/793676c1-0bfa-4644-8bad-bee798005160" />
+
